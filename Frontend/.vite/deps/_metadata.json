@@ -1,0 +1,113 @@
+{
+  "hash": "409a802e",
+  "browserHash": "a3bbb942",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "9dbed45e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "86b5402a",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "ac37c247",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Home": {
+      "src": "../../node_modules/@mui/icons-material/Home.js",
+      "file": "@mui_icons-material_Home.js",
+      "fileHash": "0ca7b36e",
+      "needsInterop": true
+    },
+    "@mui/icons-material/DarkMode": {
+      "src": "../../node_modules/@mui/icons-material/DarkMode.js",
+      "file": "@mui_icons-material_DarkMode.js",
+      "fileHash": "addbc9bb",
+      "needsInterop": true
+    },
+    "@mui/icons-material/GridView": {
+      "src": "../../node_modules/@mui/icons-material/GridView.js",
+      "file": "@mui_icons-material_GridView.js",
+      "fileHash": "96c21c2a",
+      "needsInterop": true
+    },
+    "@mui/icons-material/EmailOutlined": {
+      "src": "../../node_modules/@mui/icons-material/EmailOutlined.js",
+      "file": "@mui_icons-material_EmailOutlined.js",
+      "fileHash": "0ad8fe26",
+      "needsInterop": true
+    },
+    "@mui/icons-material/BroadcastOnPersonalOutlined": {
+      "src": "../../node_modules/@mui/icons-material/BroadcastOnPersonalOutlined.js",
+      "file": "@mui_icons-material_BroadcastOnPersonalOutlined.js",
+      "fileHash": "1e0d20df",
+      "needsInterop": true
+    },
+    "@mui/icons-material/NotificationsNone": {
+      "src": "../../node_modules/@mui/icons-material/NotificationsNone.js",
+      "file": "@mui_icons-material_NotificationsNone.js",
+      "fileHash": "ae42ae47",
+      "needsInterop": true
+    },
+    "@mui/icons-material/WbSunnyOutlined": {
+      "src": "../../node_modules/@mui/icons-material/WbSunnyOutlined.js",
+      "file": "@mui_icons-material_WbSunnyOutlined.js",
+      "fileHash": "840c23ce",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Search": {
+      "src": "../../node_modules/@mui/icons-material/Search.js",
+      "file": "@mui_icons-material_Search.js",
+      "fileHash": "91927264",
+      "needsInterop": true
+    },
+    "@mui/icons-material/FavoriteBorderOutlined": {
+      "src": "../../node_modules/@mui/icons-material/FavoriteBorderOutlined.js",
+      "file": "@mui_icons-material_FavoriteBorderOutlined.js",
+      "fileHash": "9ea2b584",
+      "needsInterop": true
+    },
+    "@mui/icons-material/FavoriteOutlined": {
+      "src": "../../node_modules/@mui/icons-material/FavoriteOutlined.js",
+      "file": "@mui_icons-material_FavoriteOutlined.js",
+      "fileHash": "bd7df224",
+      "needsInterop": true
+    },
+    "@mui/icons-material/TextsmsOutlined": {
+      "src": "../../node_modules/@mui/icons-material/TextsmsOutlined.js",
+      "file": "@mui_icons-material_TextsmsOutlined.js",
+      "fileHash": "ad7360af",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ShareOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ShareOutlined.js",
+      "file": "@mui_icons-material_ShareOutlined.js",
+      "fileHash": "1e0bc2ee",
+      "needsInterop": true
+    },
+    "@mui/icons-material/MoreHoriz": {
+      "src": "../../node_modules/@mui/icons-material/MoreHoriz.js",
+      "file": "@mui_icons-material_MoreHoriz.js",
+      "fileHash": "175891aa",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-DEI7V4FX": {
+      "file": "chunk-DEI7V4FX.js"
+    },
+    "chunk-MQBNN45W": {
+      "file": "chunk-MQBNN45W.js"
+    },
+    "chunk-2GU7VGQ7": {
+      "file": "chunk-2GU7VGQ7.js"
+    }
+  }
+}
